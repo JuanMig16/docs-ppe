@@ -1,6 +1,6 @@
 # Regression Test Checklist: ppemedevents.com
 
-**Last updated:** 2026-02-11
+**Last updated:** 2026-03-22
 **Site:** https://ppemedevents.com
 **Staging:** https://staging.ppemedevents.com
 **Risk level:** Standard
@@ -83,19 +83,19 @@
 
 | # | Plugin | Current Version | Update Available |
 |---|--------|----------------|-----------------|
-| 1 | Event Tickets | 5.27.4 | - |
-| 2 | Git Updater | 12.22.0 | - |
-| 3 | NinjaFirewall (WP Edition) | 4.8.3 | - |
+| 1 | Event Tickets | 5.27.5 | - |
+| 2 | Git Updater | 12.24.1 | - |
+| 3 | NinjaFirewall (WP Edition) | 4.8.4 | - |
 | 4 | Object Cache Pro | 1.25.1 | - (Inactive) |
-| 5 | OttoKit | 1.1.19 | 1.1.20 |
+| 5 | OttoKit | 1.1.19 | 1.1.21 |
 | 6 | Password Protected | 2.7.12 | - |
-| 7 | Redirection | 5.6.1 | - |
-| 8 | Stream | 4.1.1 | - |
-| 9 | The Events Calendar | 6.15.15 | 6.15.16 |
+| 7 | Redirection | 5.7.5 | - |
+| 8 | Stream | 4.1.2 | - |
+| 9 | The Events Calendar | 6.15.17.1 | - |
 | 10 | WP File Manager | 8.0.2 | - |
 | 11 | WP Mail SMTP Pro | 4.7.1 | - |
 
-**Updates currently available (2):** OttoKit 1.1.20, The Events Calendar 6.15.16
+**Updates currently available (0):** 
 
 ---
 
@@ -106,4 +106,4 @@
 
 ---
 
-*Last updated: 2026-02-11*
+*Last updated: 2026-03-22*
